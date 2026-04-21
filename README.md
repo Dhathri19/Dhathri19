@@ -1,13 +1,46 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhathri Meda
-====================================================================================================================================
+🚀 Dhathri Meda
 
-* 🌍  I'm based in Hyberabad, India
-* ✉️  You can contact me at [medadhathri19@gmail.com](mailto:medadhathri19@gmail.com)
-* 🤝  I'm open to collaborating on Deep Learning projects
+Applied Machine Learning | Computer Vision | Optimization | Multimodal AI
 
-### Skills
+🎓 M.S. in Applied Machine Learning @ University of Maryland
+📍 Building intelligent systems at the intersection of AI, vision, and real-world engineering
 
+🔬 About Me
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+I work on designing scalable machine learning systems that bridge research and real-world deployment. My experience spans computer vision, optimization, multimodal AI, and LLM-based systems, with a focus on replacing expensive processes with efficient learning-based solutions.
+
+💡 Research & Work
+🌱 Plant Disease Detection (UMD)
+Built an end-to-end deep learning pipeline for multi-species disease classification, improving generalization via augmentation and domain balancing
+✈️ Aerodynamic Optimization (JRF @ Mahindra University)
+Replaced CFD simulations with ML surrogate models (XGBoost, ELM) achieving R² ≈ 0.99
+→ Integrated Differential Evolution for multi-objective optimization (CL, CD, XCP)
+🚗 Autonomous Scene Understanding (IIIT-Delhi)
+Developed pipelines combining YOLOP, SAM/FastSAM for detection + segmentation
+→ Built annotation tool improving labeling speed by 3×
+🧠 Medical Imaging (NUS)
+Trained CNNs (VGG16, DenseNet) for brain tumor classification
+→ Achieved 97% accuracy using transfer learning
+
+📚 Publications
+Structural Health Monitoring (2025)
+ASCE Journal of Computing in Civil Engineering (2024)
+IEEE SNPD (2023)
+IWSHM Stanford (2023)
+🛠️ Tech Stack
+
+ML/DL: PyTorch, TensorFlow, XGBoost, ELM
+Vision: YOLO (v3–v8), SAM, FastSAM, OpenCV
+AI Systems: LLMs, RAG, Vision-Language Models, Agents
+Data: Python, Pandas, NumPy, SQL
+Tools: Docker, Git, Linux, Azure
+
+🔍 Current Focus
+Multimodal AI (Vision + Language)
+Autonomous systems & perception
+Optimization + ML hybrid pipelines
+Efficient alternatives to simulation-heavy systems
+📫 Connect
+LinkedIn: https://www.linkedin.com/in/dhathri-meda/
+Portfolio: https://portfolio-dhathri-meda.vercel.app/
+Google Scholar: https://scholar.google.com/citations?user=svHM7j4AAAAJ&hl=en
